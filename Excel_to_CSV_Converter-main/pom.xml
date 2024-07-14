@@ -40,11 +40,7 @@
         </dependency>
 
         <!-- SLF4J (Simple Logging Facade for Java) API binding with Logback Classic implementation -->
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.7.32</version>
-        </dependency>
+
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
